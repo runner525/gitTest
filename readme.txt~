@@ -1,2 +1,8 @@
 haha
 new push
+<<<<<<< HEAD
+master edit here
+=======
+new branch edit
+
+>>>>>>> newbranch
