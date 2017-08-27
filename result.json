@@ -1,0 +1,15 @@
+{
+    "code": 1,
+    "message": "编译成功",
+    "callback": "script.sh",
+    "workdir": "/dev/workdir/gitTest"
+    "changes": [
+        {
+            "comment": "modify some files",
+            "project": "tbsmain",
+            "who": "aczhengliu",
+            "branch": "testdev-branch_testmaster",
+            "reversion": "sdsadsadsadsadsadasd"
+        }
+    ]
+}
